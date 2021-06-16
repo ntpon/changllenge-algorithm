@@ -1,4 +1,4 @@
-`# 3Sum
+# 3Sum
 
 ## Problem
 
