@@ -30,7 +30,6 @@ int longestConsecutive(vector<int>& nums) {
     return maxLength;
     
 }
-
 int main(){
     vector<int> nums = {100,4,200,1,3,2};
     cout << longestConsecutive(nums);
