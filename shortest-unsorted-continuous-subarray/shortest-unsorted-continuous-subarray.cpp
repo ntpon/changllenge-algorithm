@@ -35,22 +35,27 @@ int findUnsortedSubarray(vector<int>& nums) {
         }
     }
     
-    if (minVal == INT_MIN){
+    if (minVal == INT_MAX){
         return 0;
     }
+     int left = 0;
 
-    for (int i = 0; i < n; i++)
-    {
-        if(nums[i] >= minVal && nums[i] <= maxVal){
-            answer++;
-        }
-    }
+    while(minVal >= nums[left]) {
+        left++;
+        answer++;
+    } 
+
+    int right = n - 1;
     
-    return answer;
+    while(maxVal <= nums[right]){
+        right--;
+    }
+ 
+    return (right - left) + 1;
 }
 
 int main() {
-    vector<int> nums ={1,3,2,3,3};
+    vector<int> nums ={1,2,3};
     cout << findUnsortedSubarray(nums);
      
 }
