@@ -7,3 +7,4 @@
 - [Longest Consecutive Sequence ](longest-consecutive-sequence)
 - [Trapping Rain Water](trapping-rain-water)
 - [Shortest Unsorted Continuous Subarray](shortest-unsorted-continuous-subarray)
+- [First Repeating Character](first-repeating-character)
