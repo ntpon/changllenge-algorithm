@@ -1,4 +1,4 @@
-# Invert Binary Tree
+# Longest Substring Without Repeating Characters
 
 ## Problem
 
@@ -51,4 +51,4 @@ int main() {
 ### Ref
 
 - https://leetcode.com/problems/longest-substring-without-repeating-characters
-- https://www.udemy.com/course/50-problems/
+- https://wwwZ.udemy.com/course/50-problems/
