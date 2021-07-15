@@ -15,3 +15,4 @@
 - [Invert Binary Tree](invert-binary-tree)
 - [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters)
 - [Find Peak Element](find-peak-element)
+- [Implement strStr()](implement-str)
