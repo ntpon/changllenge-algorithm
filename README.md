@@ -16,3 +16,4 @@
 - [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters)
 - [Find Peak Element](find-peak-element)
 - [Implement strStr()](implement-str)
+- [Reverse Integer](reverse-integer)
