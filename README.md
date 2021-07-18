@@ -17,3 +17,4 @@
 - [Find Peak Element](find-peak-element)
 - [Implement strStr()](implement-str)
 - [Reverse Integer](reverse-integer)
+- [Palindrome Number](palindrome-number)
